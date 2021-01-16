@@ -11,14 +11,14 @@ Zxwar Bot
 This bot has features that are useful for your server, 
 This Command Zxwar bot
 
-### Moderator
+#### Moderator
 kick, ban, softban, tempban, mute, unmute, warn, warnings, purge, clear, deletewarnings, addemoji, lock,
 
-### Fun
+#### Fun
 meme, achievement, poll joke, why, fact, coinflip, 8ball, ascii
 
-### Main
+#### Main
 translate, reddit, calculate,
 
-### Utility
+#### Utility
 say, suggest, embedsay, serverinfo, userinfo, emojis, roles, npm, docs,
