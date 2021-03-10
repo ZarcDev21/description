@@ -12,7 +12,7 @@ This bot has features that are useful for your server,
 This Command Zxwar bot
 
 - ### Moderation
-ban, unban, kick, clear, mute, unmute, tempmute, slowmode, autorole, lock, unlock,
+ban, unban, kick, clear, mute, unmute, tempmute, slowmode, lock, unlock,
 Info
 ping, help, npm, botinfo, userinfo, serverinfo, level, membercount, weather, emojiinfo,
 - ### Utility
@@ -20,7 +20,7 @@ addrole, removerole, avatar, nuke,
 - ### Image
 rip, meme, clyde, slap, gay, wasted, triggered, meeting,
 - ### Animals
-birb, cat, dog, panda, catfact, dogfact, whale
+birb, cat, dog, panda, catfact, whale
 - ### Fun
 achievment, qr,
 - ### Games
